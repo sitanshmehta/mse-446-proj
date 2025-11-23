@@ -1,0 +1,117 @@
+[
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/fabric/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/alu/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/plastic/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/plastic/left/raw/data_2.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/alu/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/pla/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/alu/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/plastic/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/fabric/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/pla/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/alu/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/alu/right/raw/data_2.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/plastic/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/plastic/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/alu/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/plastic/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/fabric/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/alu/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/fabric/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/pla/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/plastic/left/raw/data_2.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/pla/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/fabric/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/plastic/right/raw/data_2.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/pla/middle/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/fabric/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/curved/pla/right/raw/data_1.csv",
+        "geometry": "data",
+        "material": "curved"
+    },
+    {
+        "file": "/Users/sitanshmehta/mse-446-proj/data/flat/plastic/left/raw/data_1.csv",
+        "geometry": "data",
+        "material": "flat"
+    }
+]
